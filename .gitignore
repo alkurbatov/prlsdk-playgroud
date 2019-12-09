@@ -1,0 +1,6 @@
+*.o
+
+# Test executables
+play
+vz-test
+
